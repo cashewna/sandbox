@@ -1,0 +1,10 @@
+{
+	"name": "sandbox",
+	"scripts": {
+		"build": "turbo run build",
+		"test": "turbo run test"
+	},
+	"devDependencies": {
+		"turbo": "^1.9.3"
+	}
+}
